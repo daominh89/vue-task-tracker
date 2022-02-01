@@ -8,7 +8,7 @@ git clone https://github.com/daominh89/task-tracker.git && cd task-tracker && ya
 
 ### Compiles and hot-reloads for development
 ```
-yarn json && yarn serve
+yarn json & yarn serve
 ```
 
 ### Compiles and minifies for production
